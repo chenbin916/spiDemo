@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpiServiceImpl2" />
+        <module name="SpiService" />
+        <module name="SpiServiceImpl1" />
+        <module name="SpiUse" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpiDemo" target="1.5" />
+      <module name="SpiService" target="1.5" />
+      <module name="SpiServiceImpl1" target="6" />
+      <module name="SpiServiceImpl2" target="6" />
+      <module name="SpiUse" target="6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

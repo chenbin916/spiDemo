@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpiDemo.iml" filepath="$PROJECT_DIR$/SpiDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpiService/SpiService.iml" filepath="$PROJECT_DIR$/SpiService/SpiService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpiServiceImpl1/SpiServiceImpl1.iml" filepath="$PROJECT_DIR$/SpiServiceImpl1/SpiServiceImpl1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpiServiceImpl2/SpiServiceImpl2.iml" filepath="$PROJECT_DIR$/SpiServiceImpl2/SpiServiceImpl2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpiUse/SpiUse.iml" filepath="$PROJECT_DIR$/SpiUse/SpiUse.iml" />
+    </modules>
+  </component>
+</project>
